@@ -2,7 +2,7 @@ import { Meta, StoryObj } from "@storybook/react";
 import Button, { ButtonProps } from ".";
 
 const meta: Meta<ButtonProps> = {
-  title: "Molecules/Button",
+  title: "Design System/Molecules/Button",
   component: Button,
   argTypes: {
     children: {
@@ -14,6 +14,7 @@ const meta: Meta<ButtonProps> = {
     disabled: {
       type: "boolean",
     },
+    onClick: { action: "clicked" },
   },
 };
 

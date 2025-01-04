@@ -3,7 +3,7 @@ import { Meta, StoryObj } from "@storybook/react";
 import Notice, { type NoticeProps } from ".";
 
 const meta: Meta<NoticeProps> = {
-  title: "Molecules/Notice",
+  title: "Design System/Molecules/Notice",
   component: Notice,
   argTypes: {
     children: {

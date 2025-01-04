@@ -3,7 +3,7 @@ import { Meta, StoryObj } from "@storybook/react";
 import Avatar, { type AvatarProps } from ".";
 
 const meta: Meta<AvatarProps> = {
-  title: "Molecules/Avatar",
+  title: "Design System/Molecules/Avatar",
   component: Avatar,
   argTypes: {},
 };
