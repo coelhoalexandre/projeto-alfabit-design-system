@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
- <img alt="Repository size" src="https://img.shields.io/github/repo-size/NeiltonSeguins/alfabit-design-system-project?color=4e5acf">
+ <img alt="Repository size" src="https://img.shields.io/github/repo-size/coelhoalexandre/alfabit-design-system-project?color=4e5acf">
 
-  <a aria-label="Last Commit" href="https://github.com/NeiltonSeguins/alfabit-design-system-project/commits/main">
-  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/NeiltonSeguins/alfabit-design-system-project?color=4e5acf">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-4e5acf">
+  <a aria-label="Last Commit" href="https://github.com/coelhoalexandre/alfabit-design-system-project/commits/main">
+  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/coelhoalexandre/alfabit-design-system-project?color=4e5acf">
+  <img alt="License" src="https://img.shields.io/badge/license-GNU-4e5acf">
   </a>
 </p>
 <p align="center">
