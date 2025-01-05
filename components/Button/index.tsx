@@ -3,7 +3,7 @@ import { Variants } from "@/types/Variants";
 export interface ButtonProps
   extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   variant?: Variants;
-  children: React.ReactNode;
+  children: string;
 }
 
 const getVariant = (variant: Variants, isDisabled?: boolean) => {

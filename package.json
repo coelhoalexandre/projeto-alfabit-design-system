@@ -1,7 +1,7 @@
 {
-  "name": "projeto-alfabit-design-system",
-  "version": "0.1.0",
-  "private": true,
+  "name": "projeto-alfabit-ds",
+  "version": "0.1.2",
+  "private": false,
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
@@ -46,5 +46,15 @@
     "extends": [
       "plugin:storybook/recommended"
     ]
-  }
+  },
+  "description": "<h1 align=\"center\"> Alfabit Design System </h1>",
+  "main": "components/index.ts",
+  "author": "Alfabit",
+  "license": "ISC",
+  "files": [
+    "app/globals.css",
+    "tailwind.config.ts",
+    "components/*",
+    "app/fonts/*"
+  ]
 }
